@@ -1,1 +1,1 @@
-# LocalhostConfigServerProperties
+# ConvertCurrencyPropertiesGit
